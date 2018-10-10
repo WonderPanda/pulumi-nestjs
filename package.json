@@ -24,7 +24,9 @@
     "@nestjs/core": "^5.1.0",
     "@pulumi/aws": "^0.15.1",
     "@pulumi/cloud": "^0.15.1",
+    "@pulumi/cloud-aws": "^0.15.1",
     "@pulumi/pulumi": "^0.15.4",
+    "express": "^4.16.3",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.2.2",
     "typescript": "^3.0.1"
